@@ -132,7 +132,12 @@ ESLint
   - create this file in the root directory of this project
   - we can separate eslintConfig from package.json to .eslintrc,js
 
-
 ## 1-6
 
+ESLint preset
 
+*Airbnb is better*
+
+```[easy way to lint]
+npm run lint --fix
+```
